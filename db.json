@@ -113,47 +113,5 @@
         "email": "eugeniaariasfagalde22@gmail.com",
         "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
       }
-    ],
-  
-    "comments 5": [
-      {
-        "productsId": 5,
-        "id": 1,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Vitae et leo duis ut diam quam nulla porttitor massa. Vulputate enim nulla aliquet porttitor lacus luctus. Enim praesent elementum facilisis leo vel."
-      },
-      {
-        "productsId": 5,
-        "id": 2,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Amet aliquam id diam maecenas ultricies mi eget. In vitae turpis massa sed elementum. Faucibus purus in massa tempor nec feugiat.Fermentum et sollicitudin ac orci phasellus. Sagittis aliquam malesuada bibendum arcu vitae elementum."
-      },
-      {
-        "productsId": 5,
-        "id": 3,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
-      }
-    ],
-  
-    "comments 6": [
-      {
-        "productsId": 6,
-        "id": 1,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Vitae et leo duis ut diam quam nulla porttitor massa. Vulputate enim nulla aliquet porttitor lacus luctus. Enim praesent elementum facilisis leo vel."
-      },
-      {
-        "productsId": 6,
-        "id": 2,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Amet aliquam id diam maecenas ultricies mi eget. In vitae turpis massa sed elementum. Faucibus purus in massa tempor nec feugiat.Fermentum et sollicitudin ac orci phasellus. Sagittis aliquam malesuada bibendum arcu vitae elementum."
-      },
-      {
-        "productsId": 6,
-        "id": 3,
-        "email": "eugeniaariasfagalde22@gmail.com",
-        "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
-      }
     ]
   }
