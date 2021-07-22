@@ -35,5 +35,19 @@
         "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/736/279/products/sentida-botanica-171-605eda6cd5e1d0059615994849329197-1024-1024.jpg",
         "description": "Capacidad para una pastilla de shampoo sólido/jabón. Medidas: 12 x 9.5 cm"
       }
-    ]
+    ],
+    "comments 1": [
+        {
+          "productsId": 1,
+          "id": 1,
+          "email": "eugeniaariasfagalde22@gmail.com",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
+        },
+        {
+          "productsId": 1,
+          "id": 2,
+          "email": "eugeniaariasfagalde22@gmail.com",
+          "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+        }
+      ],
   }
