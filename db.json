@@ -1,0 +1,160 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Shampoo Solido",
+        "price": "$600",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_921922-MLA43190353619_082020-O.jpg",
+        "description": "Nuestro SHAMPOO SÓLIDO no requiere PERÍODO DE ADAPTACIÓN, ya que está formulado especialmente para el ph del cuero cabelludo. Es por eso que tu pelo quedará limpio y sedoso desde los primeros lavados!"
+      },
+      {
+        "id": 2,
+        "title": "Acondicionador Solido",
+        "price": "$600",
+        "img": "https://cdn2.rsvponline.mx/files/rsvp/uploads/2021/istock-1221030074_1.jpg",
+        "description": "Tu pelo quedará suave y desenredado de manera natural sin absorber productos químicos que lo dañan y resecan. Nuestro acondicionador sólido apuesta a un cambio, sano, ecológico y sustentable, sin usar envases ni exceso de packaging. "
+      },
+      {
+        "id": 3,
+        "title": "Cepillo de Dientes de Bamboo",
+        "price": "$350",
+        "img": "https://nutririana.com/wp-content/uploads/2016/02/sara-groblechner-7TgbRVEYdYY-unsplash-scaled.jpg",
+        "description": "Cepillo totalmente sustentable hecho con materiales biodegradables que brindan un estilo de vida más eco firendly."
+      },
+      {
+        "id": 4,
+        "title": "Vaso Plegable de Silicona",
+        "price": "$650",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/041/751/products/photo-2021-05-23-12-41-471-a2990efb2b6663634e16217893534474-1024-1024.jpg",
+        "description": "Vaso Termico Plegable Silicona Flexible Jarra Taza Cafe 0,5l"
+      },
+      {
+        "id": 5,
+        "title": "Jabonera de madera",
+        "price": "$400",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/736/279/products/sentida-botanica-171-605eda6cd5e1d0059615994849329197-1024-1024.jpg",
+        "description": "Capacidad para una pastilla de shampoo sólido/jabón. Medidas: 12 x 9.5 cm"
+      },
+      {
+        "id": 6,
+        "title": "Jabon de arcilla verde, sándalo y lavanda",
+        "price": "$250",
+        "img": "https://i2.wp.com/www.hacerjabones.es/wp-content/uploads/2018/11/jabon-de-lavanda-casero-2.jpg?resize=848%2C477&ssl=1",
+        "description": "JABÓN DE ARCILLA VERDE, SÁNDALO Y LAVANDA. Jabón 100% natural elaborado a base de aceite de coco y aceite de romero."
+      }
+    ],
+
+    "comments 1": [
+    {
+      "productsId": 1,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
+    },
+    {
+      "productsId": 1,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+    }
+  ],
+
+    "comments 2": [
+    {
+      "productsId": 2,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Vitae et leo duis ut diam quam nulla porttitor massa. Vulputate enim nulla aliquet porttitor lacus luctus. Enim praesent elementum facilisis leo vel."
+    },
+    {
+      "productsId": 2,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Amet aliquam id diam maecenas ultricies mi eget. In vitae turpis massa sed elementum. Faucibus purus in massa tempor nec feugiat.Fermentum et sollicitudin ac orci phasellus. Sagittis aliquam malesuada bibendum arcu vitae elementum."
+    },
+    {
+      "productsId": 2,
+      "id": 3,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
+    }
+  ], 
+
+  "comments 3": [
+    {
+      "productsId": 3,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Egestas sed tempus urna et pharetra pharetra. Aenean et tortor at risus viverra. Amet venenatis urna cursus eget. Posuere urna nec tincidunt praesent semper. Vel pretium lectus quam id leo in vitae turpis. "
+    },
+    {
+      "productsId": 3,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Dignissim enim sit amet venenatis urna. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis."
+    },
+    {
+      "productsId": 3,
+      "id": 3,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Duis convallis convallis tellus id interdum velit laoreet id donec. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique."
+    }
+  ],
+
+  "comments 4": [
+    {
+      "productsId": 4,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
+    },
+    {
+      "productsId": 4,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+    }
+  ],
+
+  "comments 5": [
+    {
+      "productsId": 5,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Vitae et leo duis ut diam quam nulla porttitor massa. Vulputate enim nulla aliquet porttitor lacus luctus. Enim praesent elementum facilisis leo vel."
+    },
+    {
+      "productsId": 5,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Amet aliquam id diam maecenas ultricies mi eget. In vitae turpis massa sed elementum. Faucibus purus in massa tempor nec feugiat.Fermentum et sollicitudin ac orci phasellus. Sagittis aliquam malesuada bibendum arcu vitae elementum."
+    },
+    {
+      "productsId": 5,
+      "id": 3,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
+    }
+  ],
+
+  "comments 6": [
+    {
+      "productsId": 6,
+      "id": 1,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Vitae et leo duis ut diam quam nulla porttitor massa. Vulputate enim nulla aliquet porttitor lacus luctus. Enim praesent elementum facilisis leo vel."
+    },
+    {
+      "productsId": 6,
+      "id": 2,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Amet aliquam id diam maecenas ultricies mi eget. In vitae turpis massa sed elementum. Faucibus purus in massa tempor nec feugiat.Fermentum et sollicitudin ac orci phasellus. Sagittis aliquam malesuada bibendum arcu vitae elementum."
+    },
+    {
+      "productsId": 6,
+      "id": 3,
+      "email": "eugeniaariasfagalde22@gmail.com",
+      "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
+    }
+  ]
+  }
