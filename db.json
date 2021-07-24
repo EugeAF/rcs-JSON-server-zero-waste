@@ -43,7 +43,8 @@
         "description": "JABÓN DE ARCILLA VERDE, SÁNDALO Y LAVANDA. Jabón 100% natural elaborado a base de aceite de coco y aceite de romero."
       }
     ],
-    "comments1": [
+
+    "comments": [
       {
         "productsId": 1,
         "id": 1,
@@ -55,10 +56,7 @@
         "id": 2,
         "email": "eugeniaariasfagalde22@gmail.com",
         "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
-      }
-    ],
-  
-      "comments2": [
+      },
       {
         "productsId": 2,
         "id": 1,
@@ -76,10 +74,7 @@
         "id": 3,
         "email": "eugeniaariasfagalde22@gmail.com",
         "body": "Morbi tincidunt augue interdum velit euismod in pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vitae auctor eu augue ut lectus arcu bibendum."
-      }
-    ], 
-  
-    "comments3": [
+      },
       {
         "productsId": 3,
         "id": 1,
@@ -97,10 +92,7 @@
         "id": 3,
         "email": "eugeniaariasfagalde22@gmail.com",
         "body": "Duis convallis convallis tellus id interdum velit laoreet id donec. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique."
-      }
-    ],
-  
-    "comments4": [
+      },
       {
         "productsId": 4,
         "id": 1,
@@ -112,6 +104,36 @@
         "id": 2,
         "email": "eugeniaariasfagalde22@gmail.com",
         "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+      },
+      {
+        "productsId": 5,
+        "id": 1,
+        "email": "eugeniaariasfagalde22@gmail.com",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
+      },
+      {
+        "productsId": 5,
+        "id": 2,
+        "email": "eugeniaariasfagalde22@gmail.com",
+        "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+      },
+      {
+        "productsId": 6,
+        "id": 1,
+        "email": "eugeniaariasfagalde22@gmail.com",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
+      },
+      {
+        "productsId": 6,
+        "id": 2,
+        "email": "eugeniaariasfagalde22@gmail.com",
+        "body": "Nibh venenatis cras sed felis eget. A cras semper auctor neque vitae tempus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla."
+      },
+      {
+        "productsId": 6,
+        "id": 1,
+        "email": "eugeniaariasfagalde22@gmail.com",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper sit amet risus nullam."
       }
     ]
   }
